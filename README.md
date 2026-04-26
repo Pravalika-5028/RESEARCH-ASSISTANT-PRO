@@ -84,7 +84,6 @@ GROQ_API_KEY=your_groq_api_key
 
 streamlit run app.py
 
-http://localhost:8501
 
 ------------------------------------------------------------------------
 
@@ -137,7 +136,7 @@ Uses YouTube CDN with HD support and fallback.
 
 ## 👩‍💻 Author
 
-Aswani
+Pravalika
 
 ------------------------------------------------------------------------
 
