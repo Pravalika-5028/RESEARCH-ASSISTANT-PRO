@@ -1,0 +1,7 @@
+streamlit
+requests
+feedparser
+python-dotenv
+sqlalchemy
+agno
+groq
